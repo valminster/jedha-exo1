@@ -1,0 +1,11 @@
+name: conda-env-1
+dependencies:
+  - python=3.7
+  - jupyter
+  - flask
+  - flask-cors
+  - requests
+  - pandas
+  - scikit-learn
+  - joblib
+  - BeautifulSoup4
