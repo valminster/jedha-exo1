@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: conda-env-1
 dependencies:
   - python=3.7
@@ -9,3 +10,16 @@ dependencies:
   - scikit-learn
   - joblib
   - BeautifulSoup4
+=======
+name: conda-env-1
+dependencies:
+  - python=3.7
+  - jupyter
+  - flask
+  - flask-cors
+  - requests
+  - pandas
+  - scikit-learn
+  - joblib
+  - BeautifulSoup4
+>>>>>>> 5ff4ec195fe839381d9b17ba5dd6301d9f4ddec2
